@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 7px 4px 5px yellow;
+  font-style: oblique;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+
+form{
+    border: 4px double navy;
+    margin: 14px;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+    background-image: url("https://imagizer.imageshack.com/img924/7892/hV061D.png");
+}
+
+body {
+  background-color: teal;
+}

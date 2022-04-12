@@ -1,0 +1,31 @@
+body {
+  font-family: cursive;
+  font-size: 15px;
+  text-align: center;
+  border: 4px double navy;
+  margin: 14px;
+  padding: 20px;
+}
+
+h1 {
+  text-shadow: 7px 4px 5px yellow;
+  font-style: oblique;
+  color: blue;
+}
+
+nav {
+  border: 2px solid aqua;
+  background-color: navy;
+}
+
+.itemsMenu li {
+  display: inline;
+}
+
+.itemsMenu li a {
+  padding: 3px;
+  border: 1px solid aqua;
+  background: white;
+  text-decoration: none;
+  margin-left: 10px;
+}
